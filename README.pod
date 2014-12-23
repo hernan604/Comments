@@ -6,7 +6,7 @@ The Comments app is a POC i created to allow anyone to comment on any web page.
 
 =head2 Why
 
-Why did was it created ? 
+Why was it created ? 
 
 Because some pages do not allow comments, or does not have a comment area. Sometimes moderators dont allow 'all' comments. This Comments system overcomes this barrier, because it allows anyone to comment any page.
 
