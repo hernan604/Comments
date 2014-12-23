@@ -19,8 +19,11 @@ Comments consists of an external Comments web server (with database to save comm
 This package contains:
 
 - comente_addon             Firefox plugin
+
 - comente_addon_chrome      Chrome plugin
+
 - Comment-DB                Comments DB (dbix class)
+
 - Comment-WWW               Comments rest server (mojo)
 
 =head2 TODO
