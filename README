@@ -1,0 +1,31 @@
+=encoding utf8
+
+=head1 Comments
+
+The Comments app is a POC i created to allow anyone to comment on any web page.
+
+=head2 Why
+
+Why did was it created ? 
+
+Because some pages do not allow comments, or does not have a comment area. Sometimes moderators dont allow 'all' comments. This Comments system overcomes this barrier, because it allows anyone to comment any page.
+
+=head2 Description
+
+Comments consists of an external Comments web server (with database to save comments) and browsers plugins. It allows the user to activate the plugin and start commenting web pages. Others can do the same. 
+
+=head2 Package
+
+This package contains:
+
+- comente_addon             Firefox plugin
+- comente_addon_chrome      Chrome plugin
+- Comment-DB                Comments DB (dbix class)
+- Comment-WWW               Comments rest server (mojo)
+
+=head2 TODO
+
+There is a lot of things todo... First is apply some style into the plugins.
+The plugin is written in jquery and could be written in angular.
+The plugins have been tested in https pages, but it might need a valid certificate.
+

@@ -1,0 +1,17 @@
+gerar o arquivo de instalação:
+./build.sh ou build.sh
+
+depois instalar o arquivo.xpi
+
+depois abrir firefox > menu > Tools  > lets comment!
+
+ele vai abrir uma url: http://localhost:8080 no formato abaixo... então é bom ter um webserver escutando nessa porta
+
+<body class="projeto-2011 webpage home-estacao " data-twttr-rendered="true">
+    <iframe src="http://localhost:8080/?url=http://esporte.uol.com.br/">
+        #document
+            <html>
+                <head></head>
+                <body></body>
+            </html>
+    </iframe>

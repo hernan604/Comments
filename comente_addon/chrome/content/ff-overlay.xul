@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://comente/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://comente/locale/overlay.dtd">
+<overlay id="comente-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="ff-overlay.js" />
+  <script src="jquery.js" />
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="comente-strings" src="chrome://comente/locale/overlay.properties"/>
+  </stringbundleset>
+  <menupopup id="menu_ToolsPopup">
+    <menuitem id="comente-hello" label="&comente.label;"
+              oncommand="comente.onMenuItemCommand(event);"/>
+  </menupopup>
+</overlay>

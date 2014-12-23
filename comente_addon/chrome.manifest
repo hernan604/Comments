@@ -1,0 +1,4 @@
+content   comente                 chrome/content/
+skin      comente   classic/1.0   chrome/skin/
+locale    comente   en-US         chrome/locale/en-US/
+overlay	chrome://browser/content/browser.xul	chrome://comente/content/ff-overlay.xul

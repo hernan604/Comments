@@ -1,0 +1,8 @@
+<!ENTITY comente.label "lets comment!">
+<!ENTITY comenteContext.label "Your Menuitem">
+<!ENTITY comenteContext.accesskey "Y">
+<!ENTITY comenteToolbarButton.label "Your Toolbar Button">
+<!ENTITY comenteToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY comenteSidebar.label "Your Sidebar">
+<!ENTITY comenteToolbar.name  "example">
+<!ENTITY comenteToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &comenteToolbar.name;">
